@@ -1,12 +1,10 @@
 # on-coding
-topics on coding and being a better coder
+
+***topics on coding and being a better coder***
+
+***Fun and informative essays on profession software construction:***
+
+[one-does-not-simply-learn-to-code](https://medium.freecodecamp.com/one-does-not-simply-learn-to-code-f25bacdc5b62#.6n242o8tq/ "So true!")
 
 
-add this soon
-https://medium.freecodecamp.com/one-does-not-simply-learn-to-code-f25bacdc5b62#.6n242o8tq
 
-
-
-This is [an example](http://example.com/ "Title") inline link.
-
-[This link](http://example.net/) has no title attribute.
