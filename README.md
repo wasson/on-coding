@@ -6,7 +6,7 @@
 
 [Better Java by Sean Cassidy](https://www.seancassidy.me/better-java.html/ "favorite")
 
-[Optionals - when, why ... by Siegfried Steiner]https://www.linkedin.com/pulse/java-8-obliged-do-optional-siegfried-steiner/ "use them, thoughtfully")
+[Optionals - when, why ... by Siegfried Steiner](https://www.linkedin.com/pulse/java-8-obliged-do-optional-siegfried-steiner/ "use them, thoughtfully")
 
 ***Fun and informative essays on profession software construction:***
 
