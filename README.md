@@ -8,7 +8,7 @@
 
 [Optionals - when, why ... by Siegfried Steiner](https://www.linkedin.com/pulse/java-8-obliged-do-optional-siegfried-steiner/ "use them, thoughtfully")
 
-***Fun and informative essays on profession software construction:***
+***Fun and informative essays on profession of software construction:***
 
 [one-does-not-simply-learn-to-code](https://medium.freecodecamp.com/one-does-not-simply-learn-to-code-f25bacdc5b62#.6n242o8tq/ "So true!")
 
