@@ -14,5 +14,5 @@
 
 [one-does-not-simply-learn-to-code](https://medium.freecodecamp.com/one-does-not-simply-learn-to-code-f25bacdc5b62#.6n242o8tq/ "So true!")
 
-
+[Things you should never do ... Joel Spolsky](http://www.joelonsoftware.com/articles/fog0000000069.html "keep the bus roll'n")
 
