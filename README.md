@@ -4,7 +4,7 @@
 
 ***Java:***
 
-[Better Java by Sean Cassidy](https://www.seancassidy.me/better-java.html/ "favorite")
+[Better Java by Sean Cassidy](https://github.com/cxxr/better-java/ "favorite")
 
 [Optionals - when, why ... by Siegfried Steiner](https://www.linkedin.com/pulse/java-8-obliged-do-optional-siegfried-steiner/ "use them, thoughtfully")
 
