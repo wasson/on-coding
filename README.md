@@ -16,3 +16,8 @@
 
 [Things you should never do ... Joel Spolsky](http://www.joelonsoftware.com/articles/fog0000000069.html "keep the bus roll'n")
 
+***Design:***
+
+[When to use (and not to use) CQRS](https://www.objectivity.co.uk/blog/when-to-use-and-not-to-use-cqrs/)
+
+[CQRS - Martin Flower](https://martinfowler.com/bliki/CQRS.html#:~:text=CQRS%20stands%20for%20Command%20Query,you%20use%20to%20read%20information.)
